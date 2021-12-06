@@ -1,6 +1,6 @@
 ![content_github](https://user-images.githubusercontent.com/82999551/144830250-e3147f25-c341-4020-95fd-a10fbf45ead2.jpg)
 
-<h1>Hi 👋, I'm Vishnu Sankar</h1>
+<div style ="justify-contect:center"><h1>Hi 👋, I'm Vishnu Sankar</h1></div>
 <h2>A Passionate Full Stack Developer From India</h2>
 
 🌱 I’m currently learning MERN Stack
