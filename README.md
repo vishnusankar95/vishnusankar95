@@ -15,8 +15,7 @@ vishnusankar95
 🙋‍♂️ Visit My Portfolio https://vishnusankarportfolio.netlify.app
 
 Connect with me:
-
-
+  [Linkedin](https://www.linkedin.com/in/vishnu-sankar-855b72b4/)
 Languages and Tools:
 
 
