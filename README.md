@@ -17,6 +17,7 @@ Connect with me:
   [Linkedin](https://www.linkedin.com/in/vishnu-sankar-855b72b4/) <br/>
   
 Languages and Tools:
+![skills](https://user-images.githubusercontent.com/82999551/145679189-bf5ea2c4-9f32-4732-bfbc-3cdfc23fe917.png)
 
 
 
